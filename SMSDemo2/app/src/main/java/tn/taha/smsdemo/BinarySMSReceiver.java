@@ -19,7 +19,7 @@ public class BinarySMSReceiver extends BroadcastReceiver {
         SmsMessage[] msgs = null;
 
         if (null != bundle) {
-            String info = "";
+            String contentMessage = "";
             String sender = "";
             Object[] pdus = (Object[]) bundle.get("pdus");
             msgs = new SmsMessage[pdus.length];
@@ -28,19 +28,17 @@ public class BinarySMSReceiver extends BroadcastReceiver {
             for (int i = 0; i < msgs.length; i++) {
                 msgs[i] = SmsMessage.createFromPdu((byte[]) pdus[i]);
                 sender = msgs[i].getOriginatingAddress();
-              //  info += msgs[i].getOriginatingAddress();
-                info += "";
+                contentMessage += "";
 
                 data = msgs[i].getUserData();
 
                 for (int index = 0; index < data.length; ++index) {
-                    info += Character.toString((char) data[index]);
+                    contentMessage += Character.toString((char) data[index]);
                 }
             }
 
-            // Toast.makeText(context, info, Toast.LENGTH_LONG).show();
 
-            showNotification(context, sender, info);
+            showNotification(context, sender, contentMessage);
 
         }
     }
@@ -52,8 +50,8 @@ public class BinarySMSReceiver extends BroadcastReceiver {
 
         NotificationCompat.Builder mBuilder =
                 new NotificationCompat.Builder(context)
-                        .setSmallIcon(R.drawable.icon)
-                        .setContentTitle("TTQuiz 6.2")
+                        .setSmallIcon(R.drawable.mail)
+                        .setContentTitle("From:"+numberFrom)
                         .setContentText(Message);
         mBuilder.setContentIntent(contentIntent);
         mBuilder.setDefaults(Notification.DEFAULT_SOUND);
