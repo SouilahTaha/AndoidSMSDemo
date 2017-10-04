@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/macbookair/Downloads/SMSDemo/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="/Users/macbookair/Downloads/SMSDemo/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.0_595b6499c2e0e9f15592aa962c496183c87389a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookair/AndroidStudioProjects/SMSDemo2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="/Users/macbookair/AndroidStudioProjects/SMSDemo2/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.0_3a0f42b7ab0b108067fc840b32a028989ef2e29b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookair/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/macbookair/Downloads/SMSDemo/app/build/intermediates/pre-dexed/debug/okio-1.6.0_dd11cbbef3766643d5c2d2d3a29a131705ab0723.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookair/Downloads/SMSDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/Users/macbookair/Downloads/SMSDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.0_89b2af8f6e8775d9c8161c97f4bb37bdae2bcd8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookair/AndroidStudioProjects/SMSDemo2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/Users/macbookair/AndroidStudioProjects/SMSDemo2/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0_131da34060489d591c5a0692f258df267f837974.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookair/Downloads/SMSDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/Users/macbookair/Downloads/SMSDemo/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.0_8f0a3da7a14fa59c75ef01a9a3c45a11afdc0ffd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookair/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.0.1/bd9b51a0188fc8f14bf840a0d326755545206116/okhttp-ws-3.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bd9b51a0188fc8f14bf840a0d326755545206116">
+        <dex dex="/Users/macbookair/Downloads/SMSDemo/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.0.1_9b9e9c20e2817c08107b84f1f7681fde348e03c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookair/AndroidStudioProjects/SMSDemo2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/Users/macbookair/AndroidStudioProjects/SMSDemo2/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.0_a117d6f6af397d6af598310f742546ddb638cc35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookair/AndroidStudioProjects/SMSDemo2/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="/Users/macbookair/AndroidStudioProjects/SMSDemo2/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.0_e9331b57fb107cf655007d0996b9c67f86663ba6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookair/Downloads/SMSDemo/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="/Users/macbookair/Downloads/SMSDemo/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.0_73f6bb05086429ec0628b43c0f618d3440127f0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookair/Downloads/SMSDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/Users/macbookair/Downloads/SMSDemo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.0_b96ceaa3a3dd3f98f26ee3801bd84c9bec7073c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookair/AndroidStudioProjects/SMSDemo2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/Users/macbookair/AndroidStudioProjects/SMSDemo2/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.0_5cb452ee5308a6ace522e0980a0788befc7c4a79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookair/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/Users/macbookair/Downloads/SMSDemo/app/build/intermediates/pre-dexed/debug/gson-2.3_5cd25d33adbef6f25c7a5c27c6f58e2ca418380e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookair/AndroidStudioProjects/SMSDemo2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/Users/macbookair/AndroidStudioProjects/SMSDemo2/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.0_33601cd1985785c2c4923c74c82f7e50b39310a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookair/Downloads/SMSDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/Users/macbookair/Downloads/SMSDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.0_6afd6ce50df02f17d647c6f7a657cdc622a53b27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookair/.gradle/caches/modules-2/files-2.1/io.socket/engine.io-client/0.7.0/c1b1d30e2d2231b2eae1438a44943a409b976dac/engine.io-client-0.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c1b1d30e2d2231b2eae1438a44943a409b976dac">
+        <dex dex="/Users/macbookair/Downloads/SMSDemo/app/build/intermediates/pre-dexed/debug/engine.io-client-0.7.0_ad6209e1e1f85ae2767915b3c6ad39af85e169dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookair/AndroidStudioProjects/SMSDemo2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/Users/macbookair/AndroidStudioProjects/SMSDemo2/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.0_5b6ee321542d95c4b4f824af1fb62f11f25ca832.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookair/Downloads/SMSDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/Users/macbookair/Downloads/SMSDemo/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0_434077f2836d64c1129a1ddef7bd88d0f2d1e4e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookair/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.0.1/b34c1f2d993044656e87f88970b6818e99e886ba/okhttp-3.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b34c1f2d993044656e87f88970b6818e99e886ba">
+        <dex dex="/Users/macbookair/Downloads/SMSDemo/app/build/intermediates/pre-dexed/debug/okhttp-3.0.1_fc53bbbb552a994a257f433312062623642f5c01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookair/.gradle/caches/modules-2/files-2.1/io.socket/socket.io-client/0.7.0/ce278c97bc9f74c7945d647f6d441d6013163362/socket.io-client-0.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ce278c97bc9f74c7945d647f6d441d6013163362">
+        <dex dex="/Users/macbookair/Downloads/SMSDemo/app/build/intermediates/pre-dexed/debug/socket.io-client-0.7.0_86ee48a2d1f4e84ad49f7a977b4c9833ae62871e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookair/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/Users/macbookair/Downloads/SMSDemo/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0_1e68be2bda50ef982579db393c5f3bb36d70069d.jar" />
+    </item>
+
+</items>
